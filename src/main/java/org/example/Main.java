@@ -8,5 +8,9 @@ public class Main {
 
 //        Exercise2 ex2 = new Exercise2();
 //        ex2.Name();
+
+        Exercise3 ex3 = new Exercise3();
+        ex3.ChangeUpperLowerCase();
+
     }
 }
