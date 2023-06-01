@@ -21,8 +21,11 @@ public class Main {
 //        Exercise6 ex6 = new Exercise6();
 //        ex6.IsEven();
 
-        Exercise7 ex7 = new Exercise7();
-        ex7.Eureka();
+//        Exercise7 ex7 = new Exercise7();
+//        ex7.Eureka();
+
+        Exercise8 ex8 = new Exercise8();
+        ex8.PhraseLenght();
 
 
     }
