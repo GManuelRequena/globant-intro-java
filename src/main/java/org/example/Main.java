@@ -24,8 +24,11 @@ public class Main {
 //        Exercise7 ex7 = new Exercise7();
 //        ex7.Eureka();
 
-        Exercise8 ex8 = new Exercise8();
-        ex8.PhraseLenght();
+//        Exercise8 ex8 = new Exercise8();
+//        ex8.PhraseLenght();
+
+        Exercise9 ex9 = new Exercise9();
+        ex9.checkPhrase();
 
 
     }
