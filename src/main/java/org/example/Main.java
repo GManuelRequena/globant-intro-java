@@ -9,8 +9,11 @@ public class Main {
 //        Exercise2 ex2 = new Exercise2();
 //        ex2.Name();
 
-        Exercise3 ex3 = new Exercise3();
-        ex3.ChangeUpperLowerCase();
+//        Exercise3 ex3 = new Exercise3();
+//        ex3.ChangeUpperLowerCase();
+
+        Exercise4 ex4 = new Exercise4();
+        ex4.FromCelsiusToFaren();
 
     }
 }
