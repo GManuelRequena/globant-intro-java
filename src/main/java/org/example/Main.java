@@ -18,8 +18,11 @@ public class Main {
 //        Exercise5 ex5 = new Exercise5();
 //        ex5.MathOps();
 
-        Exercise6 ex6 = new Exercise6();
-        ex6.IsEven();
+//        Exercise6 ex6 = new Exercise6();
+//        ex6.IsEven();
+
+        Exercise7 ex7 = new Exercise7();
+        ex7.Eureka();
 
 
     }
