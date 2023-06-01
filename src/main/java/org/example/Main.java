@@ -15,9 +15,11 @@ public class Main {
 //        Exercise4 ex4 = new Exercise4();
 //        ex4.FromCelsiusToFaren();
 
-        Exercise5 ex5 = new Exercise5();
-        ex5.MathOps();
+//        Exercise5 ex5 = new Exercise5();
+//        ex5.MathOps();
 
+        Exercise6 ex6 = new Exercise6();
+        ex6.IsEven();
 
 
     }
