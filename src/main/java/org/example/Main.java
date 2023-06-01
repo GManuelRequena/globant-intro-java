@@ -12,8 +12,13 @@ public class Main {
 //        Exercise3 ex3 = new Exercise3();
 //        ex3.ChangeUpperLowerCase();
 
-        Exercise4 ex4 = new Exercise4();
-        ex4.FromCelsiusToFaren();
+//        Exercise4 ex4 = new Exercise4();
+//        ex4.FromCelsiusToFaren();
+
+        Exercise5 ex5 = new Exercise5();
+        ex5.MathOps();
+
+
 
     }
 }
