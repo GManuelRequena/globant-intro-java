@@ -25,13 +25,14 @@ public class Main {
 //        ex7.Eureka();
 
 //        Exercise8 ex8 = new Exercise8();
-//        ex8.PhraseLenght();
 
 //        Exercise9 ex9 = new Exercise9();
 //        ex9.checkPhrase();
 
-        Exercise10 ex10 = new Exercise10();
-        ex10.SumaLimite();
+//        Exercise10 ex10 = new Exercise10();
+//        ex10.SumaLimite();
 
+        Exercise11 ex11 = new Exercise11();
+        ex11.Menu();
     }
 }
