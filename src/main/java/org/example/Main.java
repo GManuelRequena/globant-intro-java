@@ -32,7 +32,10 @@ public class Main {
 //        Exercise10 ex10 = new Exercise10();
 //        ex10.SumaLimite();
 
-        Exercise11 ex11 = new Exercise11();
-        ex11.Menu();
+//        Exercise11 ex11 = new Exercise11();
+//        ex11.Menu();
+
+        Exercise12 ex12 = new Exercise12();
+        ex12.RS232();
     }
 }
