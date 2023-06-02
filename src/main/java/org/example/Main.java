@@ -35,7 +35,10 @@ public class Main {
 //        Exercise11 ex11 = new Exercise11();
 //        ex11.Menu();
 
-        Exercise12 ex12 = new Exercise12();
-        ex12.RS232();
+//        Exercise12 ex12 = new Exercise12();
+//        ex12.RS232();
+
+        Exercise13 ex13 = new Exercise13();
+        ex13.DibujarCuadrado();
     }
 }
