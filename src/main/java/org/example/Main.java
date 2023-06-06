@@ -50,7 +50,10 @@ public class Main {
 //        Exercise16 ex16 = new Exercise16();
 //        ex16.fillVectorRandom();
 
-        Exercise17 ex17 = new Exercise17();
-        ex17.countDig();
+//        Exercise17 ex17 = new Exercise17();
+//        ex17.countDig();
+
+        Exercise18 ex18 = new Exercise18();
+        ex18.transpose();
     }
 }
