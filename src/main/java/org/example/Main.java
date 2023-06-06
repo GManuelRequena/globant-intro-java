@@ -44,7 +44,10 @@ public class Main {
 //        Exercise14 ex14 = new Exercise14();
 //        ex14.Exercise14();
 
-        Exercise15 ex15 = new Exercise15();
-        ex15.rellenarYMostrarVec();
+//        Exercise15 ex15 = new Exercise15();
+//        ex15.rellenarYMostrarVec();
+
+        Exercise16 ex16 = new Exercise16();
+        ex16.fillVectorRandom();
     }
 }
