@@ -47,7 +47,10 @@ public class Main {
 //        Exercise15 ex15 = new Exercise15();
 //        ex15.rellenarYMostrarVec();
 
-        Exercise16 ex16 = new Exercise16();
-        ex16.fillVectorRandom();
+//        Exercise16 ex16 = new Exercise16();
+//        ex16.fillVectorRandom();
+
+        Exercise17 ex17 = new Exercise17();
+        ex17.countDig();
     }
 }
