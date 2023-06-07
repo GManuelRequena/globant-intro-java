@@ -53,7 +53,10 @@ public class Main {
 //        Exercise17 ex17 = new Exercise17();
 //        ex17.countDig();
 
-        Exercise18 ex18 = new Exercise18();
-        ex18.transpose();
+//        Exercise18 ex18 = new Exercise18();
+//        ex18.transpose();
+
+        Exercise19 ex19 = new Exercise19();
+        ex19.antiSymmetric();
     }
 }
