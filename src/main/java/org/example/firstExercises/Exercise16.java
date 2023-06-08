@@ -1,8 +1,6 @@
-package org.example;
+package org.example.firstExercises;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
-import java.util.logging.Logger;
 
 public class Exercise16 {
     /*

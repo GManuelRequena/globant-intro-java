@@ -1,6 +1,4 @@
-package org.example;
-
-import jdk.nashorn.internal.runtime.regexp.joni.ScanEnvironment;
+package org.example.firstExercises;
 
 import java.util.Arrays;
 import java.util.Random;
