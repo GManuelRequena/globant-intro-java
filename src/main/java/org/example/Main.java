@@ -56,7 +56,10 @@ public class Main {
 //        Exercise18 ex18 = new Exercise18();
 //        ex18.transpose();
 
-        Exercise19 ex19 = new Exercise19();
-        ex19.antiSymmetric();
+//        Exercise19 ex19 = new Exercise19();
+//        ex19.antiSymmetric();
+
+        Exercise20 ex20 = new Exercise20();
+        ex20.magicSquare();
     }
 }
