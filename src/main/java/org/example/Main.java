@@ -86,6 +86,8 @@ public class Main {
 
 //        ExtraExercise9.division();
 
-        ExtraExercise10.guess();
+//        ExtraExercise10.guess();
+
+        ExtraExercise11.digits();
     }
 }
