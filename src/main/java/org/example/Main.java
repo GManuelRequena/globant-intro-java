@@ -78,7 +78,8 @@ public class Main {
 
 //        ExtraExercise5.social();
 
-        ExtraExercise6.heights();
+//        ExtraExercise6.heights();
 
+        ExtraExercise7.average();
     }
 }
