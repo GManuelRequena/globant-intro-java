@@ -1,6 +1,7 @@
 package org.example;
 
 import org.example.extraExercises.ExtraExercise1;
+import org.example.extraExercises.ExtraExercise2;
 import org.example.firstExercises.Exercise20;
 
 public class Main {
@@ -65,7 +66,10 @@ public class Main {
 //        Exercise20 ex20 = new Exercise20();
 //        ex20.magicSquare();
 
-        ExtraExercise1 ex1 = new ExtraExercise1();
-        ex1.convertToDays();
+//        ExtraExercise1 ex1 = new ExtraExercise1();
+//        ex1.convertToDays();
+
+        ExtraExercise2 ex2 = new ExtraExercise2();
+        ex2.switchValues();
     }
 }
