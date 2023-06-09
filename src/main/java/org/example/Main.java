@@ -80,6 +80,8 @@ public class Main {
 
 //        ExtraExercise6.heights();
 
-        ExtraExercise7.average();
+//        ExtraExercise7.average();
+
+        ExtraExercise8.readadNumbers();
     }
 }
