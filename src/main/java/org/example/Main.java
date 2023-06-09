@@ -88,6 +88,8 @@ public class Main {
 
 //        ExtraExercise10.guess();
 
-        ExtraExercise11.digits();
+//        ExtraExercise11.digits();
+
+        ExtraExercise12.counter();
     }
 }
