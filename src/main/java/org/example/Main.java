@@ -92,6 +92,8 @@ public class Main {
 
 //        ExtraExercise12.counter();
 
-        ExtraExercise13.stair();
+//        ExtraExercise13.stair();
+
+        ExtraExercise14.averageAge();
     }
 }
