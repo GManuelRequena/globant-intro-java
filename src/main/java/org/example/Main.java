@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.extraExercises.ExtraExercise1;
 import org.example.extraExercises.ExtraExercise2;
+import org.example.extraExercises.ExtraExercise3;
 import org.example.firstExercises.Exercise20;
 
 public class Main {
@@ -69,7 +70,10 @@ public class Main {
 //        ExtraExercise1 ex1 = new ExtraExercise1();
 //        ex1.convertToDays();
 
-        ExtraExercise2 ex2 = new ExtraExercise2();
-        ex2.switchValues();
+//        ExtraExercise2 ex2 = new ExtraExercise2();
+//        ex2.switchValues();
+
+        ExtraExercise3 ex3 = new ExtraExercise3();
+        ex3.isVowel();
     }
 }
