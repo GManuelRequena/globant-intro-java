@@ -76,8 +76,9 @@ public class Main {
 
 //        ExtraExercise4.toRoman();
 
-        ExtraExercise5.social();
+//        ExtraExercise5.social();
 
+        ExtraExercise6.heights();
 
     }
 }
