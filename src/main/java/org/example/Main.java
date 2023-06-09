@@ -82,6 +82,8 @@ public class Main {
 
 //        ExtraExercise7.average();
 
-        ExtraExercise8.readadNumbers();
+//        ExtraExercise8.readadNumbers();
+
+        ExtraExercise9.division();
     }
 }
