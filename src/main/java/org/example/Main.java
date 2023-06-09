@@ -90,6 +90,8 @@ public class Main {
 
 //        ExtraExercise11.digits();
 
-        ExtraExercise12.counter();
+//        ExtraExercise12.counter();
+
+        ExtraExercise13.stair();
     }
 }
